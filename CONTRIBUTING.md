@@ -42,8 +42,8 @@ the PR.
 
 ### DOs and DON'Ts
 
-- **DO** follow our C/C++ [coding style](https://docs.nanoframework.net/articles/contributing/cxx-coding-style.html)
-- **DO** follow our C# [coding style](https://docs.nanoframework.net/articles/contributing/cs-coding-style.html)
+- **DO** follow our C/C++ [coding style](https://docs.nanoframework.net/content/contributing/cxx-coding-style.html)
+- **DO** follow our C# [coding style](https://docs.nanoframework.net/content/contributing/cs-coding-style.html)
 - **DO** give priority to the current style of the project or file you're changing even if it diverges from the general guidelines.
 - **DO** include tests when adding new features. When fixing bugs, start with
   adding a test that highlights how the current behavior is broken.
@@ -134,4 +134,4 @@ There are many good algorithms implemented in other languages that would benefit
 
 ### Contributor License Agreement
 
-You must sign the [nanoFramework Contribution License Agreement](https://docs.nanoframework.net/articles/contributing/cla.html) (CLA) before your PR can merged. This is a one-time requirement for projects maintained under the nanoFramework organization. You can read more about Contribution License Agreements (CLA) on [Wikipedia](https://en.wikipedia.org/wiki/Contributor_License_Agreement).
+You must sign the [nanoFramework Contribution License Agreement](https://docs.nanoframework.net/content/contributing/cla.html) (CLA) before your PR can merged. This is a one-time requirement for projects maintained under the nanoFramework organization. You can read more about Contribution License Agreements (CLA) on [Wikipedia](https://en.wikipedia.org/wiki/Contributor_License_Agreement).
