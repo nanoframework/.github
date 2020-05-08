@@ -19,7 +19,9 @@ Typos are embarrassing! We will accept most PRs that fix typos. In order to make
 
 ### Commit Messages
 
-Please format commit messages as follows (based on this [excellent post](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)):
+For PRs we have templates setup, please make sure to follow them. Tick the appropriate boxes and remove what's not meant to be there. Failure to do this can lead to our nfbot closing your PR automatically.
+
+Please format your commit messages as follows (based on this [excellent post](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)):
 
 ```text
 Summarize change in 50 characters or less
@@ -27,18 +29,11 @@ Summarize change in 50 characters or less
 Provide more detail after the first line. Leave one blank line below the
 summary and wrap all lines at 72 characters or less.
 
-If the change fixes an issue, leave another blank line after the final
-paragraph and indicate which issue is fixed in the specific format
-below.
-
-Fix #42
 ```
 
-Also do your best to factor commits appropriately, i.e not too large with unrelated
-things in the same commit, and not too small with the same small change applied N
-times in N different commits. If there was some accidental reformatting or whitespace
-changes during the course of your commits, please rebase them away before submitting
-the PR.
+Do not include in your commit messages any keywords to close issues or PRs. These should be handled in the PR commit message.
+
+Also do your best to factor commits appropriately, i.e not too large with unrelated things in the same commit, and not too small with the same small change applied N times in N different commits. If there was some accidental reformatting or whitespace changes during the course of your commits, please rebase them away before submitting the PR.
 
 ### DOs and DON'Ts
 
