@@ -6,7 +6,7 @@ The **nanoFramework** team maintains several guidelines for contributing to the 
 
 - [General Contribution Guidance](#general-contribution-guidance) describes general contribution guidance, including more subjective stylistic guidelines.
 - [Contribution Bar](#contribution-bar) describes the bar that the team uses to accept changes.
-- [Contribution Workflow](docs/contributing-workflow.md) describes the workflow that the team uses for considering and accepting changes.
+- [Contribution Workflow](https://docs.nanoframework.net/content/contributing/contributing-workflow.html#suggested-workflow) describes the workflow that the team uses for considering and accepting changes.
 - [Copyright Notice](#copyright-notice) describes file header copyright notice format.
 
 ## General Contribution Guidance
