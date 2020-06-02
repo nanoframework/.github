@@ -21,6 +21,9 @@
 - [ ] Bug fix (non-breaking change which fixes an issue)
 - [ ] New feature (non-breaking change which adds functionality)
 - [ ] Breaking change (fix or feature that would cause existing functionality to change)
+- [ ] Config and build (change in the configuration and build system, has no impact on code or features)
+- [ ] Dependencies (update dependencies and changes associated, has no impact on code or features)
+
 
 ## Checklist:
 <!--- Go over all the following points, and put an `x` in all the boxes that apply. -->
