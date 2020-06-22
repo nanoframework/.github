@@ -10,6 +10,13 @@ excluded_files:
 # Any typos we should ignore?
 excluded_words:
   - nanoFramework
+  - uart
+  - gpio
+  - csharp
+  - dotnet
+  - spi
+  - i2c
+  - pwm
   
 # Would you like filenames to also be spellchecked?
 spellcheck_filenames: true
