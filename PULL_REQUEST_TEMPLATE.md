@@ -24,7 +24,6 @@
 - [ ] Config and build (change in the configuration and build system, has no impact on code or features)
 - [ ] Dependencies (update dependencies and changes associated, has no impact on code or features)
 
-
 ## Checklist:
 <!--- Go over all the following points, and put an `x` in all the boxes that apply. -->
 <!--- If you're unsure about any of these, don't hesitate to ask. We're here to help! -->
