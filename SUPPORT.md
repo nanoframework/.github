@@ -1,9 +1,44 @@
-# **nanoFramework** support
+# .NET **nanoFramework** support
 
-If you are having issues, need clarification on something or want to start a discussion about a relevant topic, instead of opening an issue it is best to start a conversation on one of our Discord channels.
-Please select the channel that's most appropriate to the context so subject matter experts are most likely to answer promptly.
+## Community help
 
-Join our Discord community [here](https://discord.gg/gCyBu8T).
+Our awesome community has your back!
 
-Please remember that the community members have their daily jobs and work on this project in their free time.
-That is to say that you can always expect an answer. Maybe not instantly but - hopefully - in a timely fashion 😉 !
+### Everything in .NET **nanoFramework** is public
+
+Note that we all do this in the spirit of Open Source.
+
+All discussions are public, so that everyone can participate and help each other. If you need help, you should use the methods listed here.
+
+This ensures the core team knows what's going on in the project and that everyone can benefit from each other's answers and knowledge.
+
+### If you a question on how to use .NET **nanoFramework**
+
+Go to Stack overflow and use the ["nanoframework"](https://stackoverflow.com/tags/nanoframework) tag.
+
+### Have you found a bug or want to suggest a new feature or improvement?
+
+Please open an issue in our [GitHub](https://github.com/nanoframework/Home/issues). We ask you to open an issue only when you have a real and confirmed one. Don't open an issue for support requests or to start a discussion. For that you'll get a better (and quicker!) support/feedback in one of the (https://discord.gg/gCyBu8T) channels.
+
+### Chat and engage with contributors and community members
+
+Jump into our [Discord server](https://discord.gg/gCyBu8T). You'll find several public channels on the various topics.
+
+### You want to share what you are doing with .NET **nanoFramework**
+
+You are welcomed to submit projects to [Hackster.io](https://www.hackster.io/nanoframework). Make sure you use one of our components there so your project gets tagged automatically.
+
+Tweet about your project and mention [@nanoFramework](https://twitter.com/nanoframework).
+
+## Professional Support
+
+Professional support is provided by core team members.
+
+Aimed at commercial users developing .NET **nanoFramework** based projects has the objective to help them reduce their development effort and, consequently, the time to market. The support services ensure that:
+
+- Your questions will be answered correctly and in a timely fashion.
+- Bugs that you report are fixed with higher priority.
+
+The above will, obviously, help the project continuous growth.
+
+For detailsm check [here](https://docs.nanoframework.net/content/support/professional-support.html).
