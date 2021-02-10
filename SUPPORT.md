@@ -18,7 +18,7 @@ Go to Stack overflow and use the ["nanoframework"](https://stackoverflow.com/tag
 
 ### Have you found a bug or want to suggest a new feature or improvement?
 
-Please open an issue in our [GitHub](https://github.com/nanoframework/Home/issues). We ask you to open an issue only when you have a real and confirmed one. Don't open an issue for support requests or to start a discussion. For that you'll get a better (and quicker!) support/feedback in one of the (https://discord.gg/gCyBu8T) channels.
+Please open an issue in our [GitHub](https://github.com/nanoframework/Home/issues). We ask you to open an issue only when you have a real and confirmed one. Do **NOT** open an issue for support requests, ask questions or to start a discussion. For that you'll get a better (and quicker!) support/feedback in one of the [Discord](https://discord.gg/gCyBu8T) channels. As an alternative, you can use [GitHub Discussions](https://github.com/nanoframework/Home/discussions).
 
 ### Chat and engage with contributors and community members
 
