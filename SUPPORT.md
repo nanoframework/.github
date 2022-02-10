@@ -14,15 +14,15 @@ This ensures the core team knows what's going on in the project and that everyon
 
 ### If you a question on how to use .NET **nanoFramework**
 
-Go to Stack overflow and use the ["nanoframework"](https://stackoverflow.com/tags/nanoframework) tag.
+Go to Stackoverflow and use the ["nanoframework"](https://stackoverflow.com/tags/nanoframework) tag.
 
 ### Have you found a bug or want to suggest a new feature or improvement?
 
-Please open an issue in our [GitHub](https://github.com/nanoframework/Home/issues). We ask you to open an issue only when you have a real and confirmed one. Do **NOT** open an issue for support requests, ask questions or to start a discussion. For that you'll get a better (and quicker!) support/feedback in one of the [Discord](https://discord.gg/gCyBu8T) channels. As an alternative, you can use [GitHub Discussions](https://github.com/nanoframework/Home/discussions).
+We ask you to open an issue only when you have a real and confirmed one. Do **NOT** open an issue for support requests, ask questions or to start a discussion. For that you'll get a better (and quicker!) support/feedback in one of the [Discord](https://discord.gg/gCyBu8T) channels. As an alternative, you can use [GitHub Discussions](https://github.com/nanoframework/Home/discussions). All our issues are tracked in our [Home repository](https://github.com/nanoframework/Home/issues). 
 
 ### Chat and engage with contributors and community members
 
-Jump into our [Discord server](https://discord.gg/gCyBu8T). You'll find several public channels on the various topics.
+Jump into our [Discord server](https://discord.gg/gCyBu8T). You'll find several public channels covering the various topics.
 
 ### You want to share what you are doing with .NET **nanoFramework**
 
@@ -32,7 +32,7 @@ Tweet about your project and mention [@nanoFramework](https://twitter.com/nanofr
 
 ## Professional Support
 
-Professional support is provided by core team members.
+Professional support from Eclo Solutions is provided by core team members and/or developers working on .NET **nanoFramework** on a daily basis.
 
 Aimed at commercial users developing .NET **nanoFramework** based projects has the objective to help them reduce their development effort and, consequently, the time to market. The support services ensure that:
 
@@ -41,4 +41,4 @@ Aimed at commercial users developing .NET **nanoFramework** based projects has t
 
 The above will, obviously, help the project continuous growth.
 
-For detailsm check [here](https://docs.nanoframework.net/content/support/professional-support.html).
+For details check [here](https://docs.nanoframework.net/content/support/professional-support.html).
