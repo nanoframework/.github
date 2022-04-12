@@ -36,6 +36,6 @@
 - [ ] My code follows the code style of this project (only if there are changes in source code).
 - [ ] My changes require an update to the documentation (there are changes that require the docs website to be updated).
 - [ ] I have updated the documentation accordingly (the changes require an update on the docs in this repo).
-- [ ] I have read the [CONTRIBUTING](https://github.com/nanoframework/.github/blob/main/CONTRIBUTING.md) document.
+- [ ] I have read the [CONTRIBUTING](https://github.com/nanoframework/.github/blob/master/CONTRIBUTING.md) document.
 - [ ] I have tested everything locally and all new and existing tests passed (only if there are changes in source code).
 - [ ] I have added new tests to cover my changes.
