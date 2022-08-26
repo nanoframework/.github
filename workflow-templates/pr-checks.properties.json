@@ -3,7 +3,8 @@
     "description": "Performs PR checks when building an .NET nanoFramework library.",
     "iconName": "nanoframework_logo",
     "categories": [
-        "C#"
+        "C#",
+        "Continuous integration"
     ],
     "filePatterns": [
         ".+\\.sln$",

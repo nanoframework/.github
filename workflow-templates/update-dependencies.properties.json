@@ -3,7 +3,9 @@
     "description": "Checks for updated .NET nanoFramework NuGet packages and submits a PR with any updated ones.",
     "iconName": "nanoframework_logo",
     "categories": [
-        "C#"
+        "C#",
+        "Continuous integration",
+        "Deployment"
     ],
     "filePatterns": [
         ".+\\.sln$",
