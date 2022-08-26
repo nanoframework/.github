@@ -1,0 +1,12 @@
+{
+    "name": "PR checks for .NET nanoFramework library",
+    "description": "Performs PR checks when building an .NET nanoFramework library.",
+    "iconName": "nanoframework_logo",
+    "categories": [
+        "C#"
+    ],
+    "filePatterns": [
+        ".+\\.sln$",
+        ".+\\.nuspec$"
+    ]
+}
