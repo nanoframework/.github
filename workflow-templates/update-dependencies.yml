@@ -18,5 +18,7 @@ jobs:
     name: nanoFramework
     uses: nanoframework/nf-tools/.github/workflows/update-dependencies.yml@main
     with:
-      solution: # Solution file name to perform the update check.
+      solutionsToCheck: # Pattern with solution(s) to check.
+      workingDirectory: # Working directory to use.
+      branchToPr: # Branch to submit PR with updates.
       timeout-minutes: 15 # Timeout for the workflow to complete. Optional.
