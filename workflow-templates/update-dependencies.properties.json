@@ -1,0 +1,12 @@
+{
+    "name": "Update .NET nanoFramework dependencies",
+    "description": "Checks for updated .NET nanoFramework NuGet packages and submits a PR with any updated ones.",
+    "iconName": "nanoframework_logo",
+    "categories": [
+        "C#"
+    ],
+    "filePatterns": [
+        ".+\\.sln$",
+        ".+\\.nuspec$"
+    ]
+}
