@@ -7,9 +7,9 @@
 
 ## Welcome to the .NET **nanoFramework** project 👋
 
-Our mantra is about making it easy to write C# code for embedded systems! And all what we're doing here is about that. This free and Open Source platform enables the writing of managed code applications for constrained embedded devices. 
-As a developer, you can use your powerful and familiar tools like Microsoft Visual Studio IDE and your .NET C# skills to write code for a microcontroller.
-We have ports for several **STM32** series, **ESP32**, **M5Stack**, **TI**, **NXP** and more are coming.
+Our mantra is about making it easy to write .NET C# code for embedded systems! And all what we're doing here is about that.<br>
+This free and Open Source platform enables the writing of managed code applications for constrained embedded devices.<br>
+As a developer, you can use your powerful and familiar tools like Microsoft Visual Studio IDE and your .NET C# skills to write code for a microcontroller. We have ports for several **STM32** series, **ESP32**, **M5Stack**, **TI**, **NXP** and more are coming.<br>
 Here you'll find all the tools, examples, documentation and a great developer ecosystem to help you on your next embedded systems project.
 
 Achieve the **get started guide**: [bit.ly/nanoframework-getting-started](https://docs.nanoframework.net/content/getting-started-guides/getting-started-managed.html)<br>
